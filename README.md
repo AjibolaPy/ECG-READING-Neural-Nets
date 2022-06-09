@@ -12,3 +12,5 @@ It Comprises of two 1D Convolutional Neural Networks stacked together and two GR
 the 1D Conv Net downsamples the large dataset picking only important features.
 The model is able to classify 5 types of heart rhythms correctly.
 
+It also has an Api that get answers snippet from the web
+
